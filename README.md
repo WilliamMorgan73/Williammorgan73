@@ -1,4 +1,6 @@
 ### Hi there 👋
+- Im currently studying at Durham University
+- Previously studied at Radyr Comprehensive
 
 <!--
 **WilliamMorgan73/Williammorgan73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
