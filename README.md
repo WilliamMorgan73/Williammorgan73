@@ -10,7 +10,7 @@
 
 ### 💻 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,sqlite,java,unity" />
+  <img src="https://skillicons.dev/icons?i=python,react,java,unity,haskell" />
 </p>
 
 ### 📊 GitHub Stats  
