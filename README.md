@@ -1,16 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+I'm+Will+👋;2nd+Year+CS+@+Durham+Uni;" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Will+%F0%9F%91%8B;3rd+Year+CS+%40+Durham+Uni" alt="Typing SVG" /></a>
+</p>
 
 ---
 
-### 🚀 What I'm Working On  
-- 🏗 Building a **React fitness app** with **Expo Router**  
 
 
 ### 💻 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,java,unity,haskell" />
+  <img src="https://skillicons.dev/icons?i=python,react,java" />
 </p>
 
 ### 📊 GitHub Stats  
