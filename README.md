@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Will 👋</h1>
 <p align="center">
-  3rd Year Computer Science @ Durham University
+  4th Year Computer Science @ Durham University
 </p>
 
 </br>
